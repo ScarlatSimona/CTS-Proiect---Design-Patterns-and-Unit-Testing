@@ -1,0 +1,7 @@
+Ciorbe,2,Ciorba de vacuta;4.5:Bors de legume;3.5
+Vegetarian,4,Mamaliguta cu branza si smantana;6.5:Cascaval Pane;8.5:Ardei umpluti cu branza;9:Pachetele de primavara;10
+Salate Aperitiv,5,Salata mare cu ton;8:Salata mare cu piept de pui;8:Salata mare greceasca;8:Salate mare bulgareasca;8:Salata speciala cu somon fume;15
+Fel principal,4,Muschiulet de porc impletit;16:Curcan cu gnocchi si sos Napoli;15:Frigarui din muschiulet de porc si pui;14:Paste cu carne gratinate;13
+Garnituri,3,Cartofi noi prajiti;6:Piure de cartofi noi;6:Cartofi noi taranesti;6
+Salate,2,Salad bar;4:Ardei copti;6
+Desert,1,Prajituri;5.5

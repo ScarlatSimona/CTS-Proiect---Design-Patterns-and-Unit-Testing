@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="464.0" prefWidth="344.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="meniuCantina.PrincipalController">
+   <children>
+      <Button fx:id="vizualizareMeniuButton" layoutX="107.0" layoutY="167.0" mnemonicParsing="false" onMouseClicked="#handleButtonAction" prefHeight="25.0" prefWidth="133.0" text="Vizualizare meniu" />
+      <Label layoutX="54.0" layoutY="23.0" prefHeight="69.0" prefWidth="235.0" text="Cantina Studenteasca">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+      <Label layoutX="16.0" layoutY="325.0" prefHeight="43.0" prefWidth="312.0" text="Adresa: Strada Mihail Moxa 3-7, București">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="87.0" layoutY="368.0" prefHeight="37.0" prefWidth="171.0" text="Telefon: 021 212 8610">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Button fx:id="comenziButtonPrincipal" layoutX="107.0" layoutY="241.0" mnemonicParsing="false" onMouseClicked="#comenziButtonActionPrincipal" prefHeight="25.0" prefWidth="133.0" text="Comenzi" />
+      <Label layoutX="107.0" layoutY="84.0" prefHeight="17.0" prefWidth="151.0" text="MOXA">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <Button fx:id="prelucrareMeniuButton" layoutX="105.0" layoutY="206.0" mnemonicParsing="false" onMouseClicked="#handleButtonAction" prefHeight="25.0" prefWidth="133.0" text="Prelucrare meniu" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,3 @@
+.list-cell:filled:selected {
+    -fx-text-fill: red;
+}
